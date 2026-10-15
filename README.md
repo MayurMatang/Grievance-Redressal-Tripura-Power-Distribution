@@ -1,1 +1,1 @@
-This repo showcases visualizations of grievance redressal data of Tripura State Electricity Corporation Limited.
+This repo showcases visualizations of grievance redressal data of Tripura State Electricity Corporation Limited. R scripts for analysis and visualizations are available in the 'scripts' folder. 'Final Report' deck was ultimately submitted to the bureaucracy. 
